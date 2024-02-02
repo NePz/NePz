@@ -21,7 +21,7 @@
 
 <p text-align="left">
  🌱 I’m currently learning: 
-  <br><b> React, Docker, AWS, K8, DevOps/Gitlab </b>
+  <br><b> React, Docker, AWS, K8s, DevOps/Gitlab </b>
   <br> <b>JWT Authentication, Penn Testing</b><br> 
 </p>
 
