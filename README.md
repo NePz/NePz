@@ -77,13 +77,11 @@
   </div>
 </div>
 <br>
-<div align="center" style="max-width: 800px; text-align: left; margin: 0 auto;">
   
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NePz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NePz" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NePz&show_icons=true&locale=en&theme=tokyonight" alt="NePz" /></p>
 
 
-</div>
 <!-- <h2 align="center">Top Languages</h2>
 <p align="center">
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NePz&layout=compact" alt="Top Languages">
