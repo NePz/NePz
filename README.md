@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NePz&show_icons=true&theme=radical" alt="GitHub stats">
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NePz&&theme=tokyonight" alt="NePz" /></p>
 </p>
 
 <div align="center">
@@ -70,7 +70,7 @@
   
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NePz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NePz" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NePz&show_icons=true&locale=en&theme=tokyonight" alt="NePz" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NePz&&theme=tokyonight" alt="NePz" /></p>
+
 
 </div>
 <!-- <h2 align="center">Top Languages</h2>
