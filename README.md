@@ -18,9 +18,23 @@
   <div style="max-width: 800px; text-align: left; margin: 0 auto;">
 
 ## About Me
+
+<p style="text-align: left;">
+🔭 I’m currently working on: <br><b>Internal Tech Recruitment Platform </b><br>
+</p>
+
+<br>
+
+<p style="text-align: left;">
+ 🌱 I’m currently learning: 
+  <br><b> React, Docker, AWS, </b>
+  <br> <b>JWT</b><br> 
+</p>
+
 <p style="text-align: left;">
   
   🔭 I’m currently working on: <br><b>Internal Tech Recruitment Platform </b><br>
+  <br>
   🌱 I’m currently learning: 
   <br><b> React, Docker, AWS, </b>
   <br> <b>JWT</b><br> 
