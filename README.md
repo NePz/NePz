@@ -44,6 +44,10 @@
 <div class="button">
   <span class="button-text">Html</span>
 </div>
+
+<div style="background-color: #007bff; padding: 10px; border-radius: 5px; display: inline-block;">
+  <span style="color: white; font-weight: bold;">HTML</span>
+</div>
   ### Technologies
 
   ### Other
