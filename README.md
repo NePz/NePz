@@ -18,7 +18,6 @@
 🔭 I’m currently working on: <br><b>Internal Tech Recruitment Platform </b><br>
 </p>
 
-<br>
 
 <p text-align="left">
  🌱 I’m currently learning: 
