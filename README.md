@@ -25,19 +25,13 @@
 
 <br>
 
-<p style="text-align: left;">
+<p align="left">
  🌱 I’m currently learning: 
   <br><b> React, Docker, AWS, </b>
   <br> <b>JWT</b><br> 
 </p>
 
 <p style="text-align: left;">
-  
-  🔭 I’m currently working on: <br><b>Internal Tech Recruitment Platform </b><br>
-  <br>
-  🌱 I’m currently learning: 
-  <br><b> React, Docker, AWS, </b>
-  <br> <b>JWT</b><br> 
   <!--💬 Ask me about [Your Expertise or Interests]<br> -->
   📫 How to reach me: <b>jasperrai@gmail.com</b>
   
