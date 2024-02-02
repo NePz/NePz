@@ -12,7 +12,7 @@
 <div align="center">
   <div style="max-width: 800px; text-align: left; margin: 0 auto;">
 
-## ABOUT ME
+## <ABOUT ME/>
 
 <p text-align="left">
 🔭 I’m currently working on: <br><b>Internal Tech Recruitment Platform </b><br>
@@ -21,8 +21,8 @@
 
 <p text-align="left">
  🌱 I’m currently learning: 
-  <br><b> React, Docker, AWS, </b>
-  <br> <b>JWT</b><br> 
+  <br><b> React, Docker, AWS, K8, DevOps/Gitlab </b>
+  <br> <b>JWT Authentication, Penn Testing</b><br> 
 </p>
 
 <p style="text-align: left;">
@@ -36,7 +36,7 @@
 
   <!--### Programming Languages -->
   
-## LANGUAGE \ TOOLS \ TECHNOLOGIES
+## <LANGUAGE \ TOOLS \ TECHNOLOGIES/>
 
 <!-- TEMPLATE:: <img align="center" alt="" width="26px" src="" style="padding-right:15px;" /> ::-->
 <img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:15px;" />
