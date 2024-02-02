@@ -24,7 +24,7 @@
 <p text-align="left">
  🌱 I’m currently learning: 
   <br><b> - Flutter, React, Docker, AWS, K8s, DevOps/Gitlab </b>
-  <br> <b>JWT Authentication, Penn Testing</b><br> 
+  <br> - <b> JWT Authentication, Penn Testing</b><br> 
 </p>
 
 <p style="text-align: left;">
