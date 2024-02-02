@@ -25,7 +25,7 @@
 </p>
 
 ## Skills
-<p>
+
   <!--- **Programming Languages:** [Languages]<br>
   - **Technologies:** [Frameworks, Libraries, Tools]<br>
   - **Other Skills:** [Additional skills or expertise] -->
@@ -51,7 +51,7 @@
 
 ### Other
   > Graphic Design
-</p>
+
 
 ## Projects
 <p>
