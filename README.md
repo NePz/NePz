@@ -63,8 +63,12 @@
 <img align="center" alt="Tailwind Css" width="26px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="padding-right:15px;" />
 <img align="center" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="padding-right:15px;" />
 <img align="center" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:15px;" /> 
-
-
+<img align="center" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="padding-right:15px;" />
+<img align="center" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="padding-right:15px;" /> 
+<img align="center" alt="Arduini Uno" width="26px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="padding-right:15px;" /> 
+<img align="center" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="padding-right:15px;" /> 
+<img align="center" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="padding-right:15px;" /> 
+<img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:15px;" /> 
 
 ### Other
   > Graphic Design
