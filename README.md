@@ -18,7 +18,7 @@
   <div style="max-width: 800px; text-align: left; margin: 0 auto;">
 
 ## About Me
-<p>
+<p align="left">
   
   🔭 I’m currently working on: <br><b>Internal Tech Recruitment Platform </b><br>
   🌱 I’m currently learning: 
