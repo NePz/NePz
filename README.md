@@ -1,5 +1,5 @@
 
-[![MasterHead](https://i.pinimg.com/originals/9d/ea/64/9dea6422afee150cbe2f65b5317285eb.gif)](https://rishavchanda.io)
+<img src="https://i.pinimg.com/originals/9d/ea/64/9dea6422afee150cbe2f65b5317285eb.gif" style="width: 100%; display: block;" alt="MasterHead">
 
 <h1 align="center">Hi there 👋, I'm JP(Jasper)</h1>
 <h3 align="center">Aspiring Fullstack Developer</h3>
