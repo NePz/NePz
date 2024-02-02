@@ -20,7 +20,7 @@
 ## About Me
 <p>
   
-  🔭 I’m currently working on: <b> Internal Tech Recruitment Platform </b>
+  🔭 I’m currently working on: <b> Internal Tech Recruitment Platform </b><br>
   🌱 I’m currently learning: <b> React, Docker, AWS, </b><br>
   <!--💬 Ask me about [Your Expertise or Interests]<br> -->
   📫 How to reach me: <b>jasperrai@gmail.com</b>
