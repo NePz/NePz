@@ -15,7 +15,9 @@
 ## -- ABOUT ME --
 
 <p text-align="left">
-🔭 I’m currently working on: <br><b>Internal Tech Recruitment Platform </b><br>
+🔭 I’m currently working on: 
+    <br><b> - Internal Tech Recruitment Platform </b><br>
+    <b> - Digital Songbook </b><br>
 </p>
 
 
