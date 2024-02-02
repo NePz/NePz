@@ -74,14 +74,14 @@
   > Graphic Design
 
 
-## Projects
+<!--## Projects
 <p>
   #### [Project Name 1](Link to Project 1)<br>
   Short description or tagline about the project.<br><br>
 
   #### [Project Name 2](Link to Project 2)<br>
   Short description or tagline about the project.<br><br>
-</p>
+</p> -->
 
 <!-- Add more sections as needed -->
 
