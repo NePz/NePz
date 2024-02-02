@@ -9,11 +9,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NePz&&theme=tokyonight" alt="NePz" />
 </p>
 
-
+<img align="right" alt="Coding" width="200" src="https://github.com/NePz/NePz/blob/main/assets/Programmer.png">
 <div align="center">
   <div style="max-width: 800px; text-align: left; margin: 0 auto;">
-
-<img align="right" alt="Coding" width="200" src="https://github.com/NePz/NePz/blob/main/assets/Programmer.png">
 
 ## -- ABOUT ME -- 
  
