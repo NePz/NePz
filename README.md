@@ -19,7 +19,7 @@
 
 ## About Me
 
-<p style="text-align: left;">
+<p text-align="left">
 🔭 I’m currently working on: <br><b>Internal Tech Recruitment Platform </b><br>
 </p>
 
