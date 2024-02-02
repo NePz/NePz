@@ -10,9 +10,10 @@
 </p>
 
 
-
-<center> ## -- ABOUT ME -- </center>
-
+<div>
+  <div style="max-width: 800px; text-align: left; margin: 0 auto;">
+## -- ABOUT ME -- 
+  </div></div>
 
 <div>
   <div style="max-width: 800px; text-align: left; margin: 0 auto;">
