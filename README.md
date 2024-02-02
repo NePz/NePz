@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/9d/ea/64/9dea6422afee150cbe2f65b5317285eb.gif" style="width: 100vw; display: block;" alt="MasterHead">
 
 <h1 align="center">Hi there 👋, I'm JP (Jasper)</h1>
-<h3 align="center">Aspiring Fullstack Developer</h3>
+<h3 align="center">ASPIRING FULL STACK DEV</h3>
 
 
 <p align="center">
@@ -12,7 +12,7 @@
 <div align="center">
   <div style="max-width: 800px; text-align: left; margin: 0 auto;">
 
-## About Me
+## ABOUT ME
 
 <p text-align="left">
 🔭 I’m currently working on: <br><b>Internal Tech Recruitment Platform </b><br>
@@ -36,7 +36,7 @@
 
   <!--### Programming Languages -->
   
-## Language\Tools\Technologies
+## LANGUAGE \ TOOLS \ TECHNOLOGIES
 
 <!-- TEMPLATE:: <img align="center" alt="" width="26px" src="" style="padding-right:15px;" /> ::-->
 <img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:15px;" />
