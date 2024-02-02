@@ -3,6 +3,12 @@
 
 <h1 align="center">Hi there! 👋 I'm JP (Jasper)</h1>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&background=1E203E&center=true&vCenter=true&random=false&width=435&lines=%24+Aspiring+Full-Stack+Developer_" alt="Typing SVG" />
 </div>
