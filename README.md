@@ -1,9 +1,9 @@
 
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 <h1 align="center">Hi there 👋, I'm JP(Jasper)</h1>
 <h3 align="center">Aspiring Fullstack Developer</h3>
 
-<span style="font-family: 'Times New Roman', serif;">This text is in Times New Roman font.</span>
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NePz&&theme=tokyonight" alt="NePz" />
