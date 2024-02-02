@@ -1,6 +1,6 @@
 <style>
   .button {
-    background-color: #007bff;
+    background-color: #ffffff;
     padding: 10px;
     border-radius: 5px;
     display: inline-block;
