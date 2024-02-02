@@ -94,8 +94,5 @@
   <a href="Your Twitter profile link"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white"></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
 <!-- Feel free to add more sections, achievements, or customizations! -->
