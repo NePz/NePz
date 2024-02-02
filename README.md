@@ -66,6 +66,10 @@
   </div>
 </div>
 
+
+[![NePz's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=NePz&&theme=xcode)](https://github.com/NePz)
+
+
 <h2 align="center">Top Languages</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NePz&layout=compact" alt="Top Languages">
