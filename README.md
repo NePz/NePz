@@ -39,24 +39,23 @@
   <span style="color: white; font-weight: bold;">HTML</span>
 </div>
   ### Technologies
-  ![HTML Icon](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML
-    
-  ![HTML Icon](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML
 
-<div style="display: flex; align-items: center;">
-    <div style="margin-right: 20px;">
-    
-![HTML Icon](https://img.icons8.com/color/48/000000/html-5--v1.png) 
-
-![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) 
-
-![JS Icon](https://img.icons8.com/color/48/000000/javascript--v1.png) 
-
-![React Icon](https://img.icons8.com/color/48/000000/react-native.png) 
-
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+        
+  ![HTML Icon](https://img.icons8.com/color/48/000000/html-5--v1.png) 
+  </div>
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      
+  ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) 
+    </div>
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+        ![JS Icon](https://img.icons8.com/color/48/000000/javascript--v1.png) 
+    </div>
+    <div style="display: flex; align-items: center;">
+        ![React Icon](https://img.icons8.com/color/48/000000/react-native.png) 
     </div>
 </div>
-
 
   ### Other
   > Graphic Design
