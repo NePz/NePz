@@ -45,16 +45,15 @@
 
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 20px;">
-        ![HTML Icon](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML
-    </div>
-    <div style="margin-right: 20px;">
-        ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) CSS
-    </div>
-    <div style="margin-right: 20px;">
-        ![JS Icon](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript
-    </div>
-    <div>
-        ![React Icon](https://img.icons8.com/color/48/000000/react-native.png) React
+    
+![HTML Icon](https://img.icons8.com/color/48/000000/html-5--v1.png) 
+
+![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) 
+
+![JS Icon](https://img.icons8.com/color/48/000000/javascript--v1.png) 
+
+![React Icon](https://img.icons8.com/color/48/000000/react-native.png) 
+
     </div>
 </div>
 
