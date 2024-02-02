@@ -25,7 +25,7 @@
 
 <br>
 
-<p align="left">
+<p text-align="left">
  🌱 I’m currently learning: 
   <br><b> React, Docker, AWS, </b>
   <br> <b>JWT</b><br> 
