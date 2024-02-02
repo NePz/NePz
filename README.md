@@ -9,7 +9,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NePz&&theme=tokyonight" alt="NePz" />
 </p>
 
-<div align="center">
+<div>
   <div style="max-width: 800px; text-align: left; margin: 0 auto;">
 
 ## -- ABOUT ME --
