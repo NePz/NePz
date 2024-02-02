@@ -3,6 +3,8 @@
 <h1 align="center">Hi there 👋, I'm JP(Jasper)</h1>
 <h3 align="center">Aspiring Fullstack Developer</h3>
 
+<span style="font-family: 'Courier New', monospace;">This text is in Courier New font.</span>
+
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NePz&&theme=tokyonight" alt="NePz" />
 </p>
