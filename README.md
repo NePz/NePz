@@ -1,7 +1,7 @@
 
 <img src="https://i.pinimg.com/originals/9d/ea/64/9dea6422afee150cbe2f65b5317285eb.gif" style="width: 100vw; display: block;" alt="MasterHead">
 
-<h1 align="center">Hi there 👋, I'm JP(Jasper)</h1>
+<h1 align="center">Hi there 👋, I'm JP (Jasper)</h1>
 <h3 align="center">Aspiring Fullstack Developer</h3>
 
 
@@ -28,7 +28,7 @@
 
 <p style="text-align: left;">
   <!--💬 Ask me about [Your Expertise or Interests]<br> -->
-  📫 How to reach me: <b>jasperrai@gmail.com</b>
+  📫 Contact: <b>jasperrai@gmail.com</b>
   
 </p>
   <!--- **Programming Languages:** [Languages]<br>
