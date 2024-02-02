@@ -16,16 +16,23 @@
 
 ## About Me
 <p>
-  🌱 I’m currently learning [React, Docker, AWS]<br>
-  💬 Ask me about [Your Expertise or Interests]<br>
-  📫 How to reach me: jasperrai@gmail.com
+  🌱 I’m currently learning <b>[React, Docker, AWS]</b><br>
+  <!--💬 Ask me about [Your Expertise or Interests]<br> -->
+  📫 How to reach me: <b>jasperrai@gmail.com</b>
 </p>
 
 ## Skills
 <p>
-  - **Programming Languages:** [Languages]<br>
+  <!--- **Programming Languages:** [Languages]<br>
   - **Technologies:** [Frameworks, Libraries, Tools]<br>
-  - **Other Skills:** [Additional skills or expertise]
+  - **Other Skills:** [Additional skills or expertise] -->
+
+  ### Programming Languages
+
+  ### Technologies
+
+  ### Other
+  > Graphic Design
 </p>
 
 ## Projects
@@ -47,9 +54,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NePz&layout=compact" alt="Top Languages">
 </p>
 
-<h2 align="center">Contribution Graph</h2>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=NePz" alt="Contribution Graph">
-</p>
 
 <!-- Feel free to add more sections, achievements, or customizations! -->
