@@ -67,7 +67,7 @@
 </div>
 
 
-[![NePz's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=NePz&&theme=xcode)](https://github.com/NePz)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NePz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NePz" /></p>
 
 
 <h2 align="center">Top Languages</h2>
