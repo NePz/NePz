@@ -39,7 +39,9 @@
   <span style="color: white; font-weight: bold;">HTML</span>
 </div>
   ### Technologies
-        ![HTML Icon](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML
+  ![HTML Icon](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML
+![HTML Icon](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML
+
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 20px;">
         ![HTML Icon](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML
