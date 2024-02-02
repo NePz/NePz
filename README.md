@@ -16,15 +16,15 @@
 
 <p text-align="left">
 🔭 I’m currently working on: 
-    <br><b> - Internal Tech Recruitment Platform </b><br>
-    <b> - Digital Songbook </b><br>
+    <br>-<b>Internal Tech Recruitment Platform </b><br>
+    -<b>Digital Songbook </b><br>
 </p>
 
 
 <p text-align="left">
  🌱 I’m currently learning: 
-  <br><b> - Flutter, React, Docker, AWS, K8s, DevOps/Gitlab </b>
-  <br> - <b> JWT Authentication, Penn Testing</b><br> 
+  <br>-<b>Flutter, React, Docker, AWS, K8s, DevOps/Gitlab </b>
+  <br>-<b>JWT Authentication, Penn Testing</b><br> 
 </p>
 
 <p style="text-align: left;">
