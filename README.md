@@ -11,7 +11,7 @@
 
 
 
-## -- ABOUT ME --
+<center> ## -- ABOUT ME -- </center>
 
 
 <div>
