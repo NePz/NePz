@@ -2,8 +2,10 @@
 <img src="https://i.pinimg.com/originals/9d/ea/64/9dea6422afee150cbe2f65b5317285eb.gif" style="width: 100vw; display: block;" alt="MasterHead">
 
 <h1 align="center">Hi there! 👋 I'm JP (Jasper)</h1>
-<center><img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&background=14152A&random=false&width=435&lines=%24+Aspiring+Full-Stack+Developer_" alt="Typing SVG" /></center>
 
+<div align="center">
+    <center><img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&background=14152A&random=false&width=435&lines=%24+Aspiring+Full-Stack+Developer_" alt="Typing SVG" /></center>
+</div>
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NePz&&theme=tokyonight" alt="NePz" />
