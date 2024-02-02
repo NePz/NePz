@@ -74,8 +74,6 @@
 
 <!-- Add more sections as needed -->
 
-  </div>
-</div>
 <br>
   
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NePz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NePz" /></p>
