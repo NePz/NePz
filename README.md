@@ -31,6 +31,7 @@
   - **Other Skills:** [Additional skills or expertise] -->
 
   ### Programming Languages
+  
 <div class="button">
   <span class="button-text">Html</span>
 </div>
@@ -38,6 +39,7 @@
 <div style="background-color: #ffffff; padding: 10px; border-radius: 5px; display: inline-block;">
   <span style="color: white; font-weight: bold;">HTML</span>
 </div>
+  
   ### Technologies
 
 <div style="display: flex; flex-direction: column; align-items: center;">
