@@ -3,13 +3,6 @@
 <h1 align="center">Hi there 👋, I'm JP(Jasper)</h1>
 <h3 align="center">Aspiring Fullstack Developer</h3>
 
-
-<p align="center">
-  <a href="Your LinkedIn profile link"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
-  <a href="Your portfolio or blog link"><img src="https://img.shields.io/badge/-Portfolio-blueviolet"></a>
-  <a href="Your Twitter profile link"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white"></a>
-</p>
-
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NePz&&theme=tokyonight" alt="NePz" />
 </p>
@@ -91,6 +84,11 @@
 <p align="center">
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NePz&layout=compact" alt="Top Languages">
 </p> -->
+<br>
 
-
+<p align="center">
+  <a href="Your LinkedIn profile link"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+  <a href="Your portfolio or blog link"><img src="https://img.shields.io/badge/-Portfolio-blueviolet"></a>
+  <a href="Your Twitter profile link"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white"></a>
+</p>
 <!-- Feel free to add more sections, achievements, or customizations! -->
