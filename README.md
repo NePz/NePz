@@ -41,7 +41,6 @@
   - **Other Skills:** [Additional skills or expertise] -->
 
   <!--### Programming Languages -->
-<br>
   
 ## Language\Tools\Technologies
 
