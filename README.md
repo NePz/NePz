@@ -43,7 +43,7 @@
   - **Technologies:** [Frameworks, Libraries, Tools]<br>
   - **Other Skills:** [Additional skills or expertise] -->
 
-  ### Programming Languages
+  <!--### Programming Languages -->
   
 ### Technologies & Tools
 <!-- TEMPLATE <img align="center" alt="Visual Studio Code" width="26px" src="" style="padding-right:15px;" /> -->
