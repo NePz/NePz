@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NePz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NePz" /></p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NePz&&theme=tokyonight" alt="NePz" />
 </p>
 
@@ -37,8 +36,6 @@
   📫 How to reach me: <b>jasperrai@gmail.com</b>
   
 </p>
-
-
   <!--- **Programming Languages:** [Languages]<br>
   - **Technologies:** [Frameworks, Libraries, Tools]<br>
   - **Other Skills:** [Additional skills or expertise] -->
@@ -70,10 +67,6 @@
 <img align="center" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="padding-right:15px;" /> 
 <img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:15px;" /> 
 
-### Other
-  > Graphic Design
-
-
 <!--## Projects
 <p>
   #### [Project Name 1](Link to Project 1)<br>
@@ -90,7 +83,7 @@
 
 <div align="center">
   
-
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NePz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NePz" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NePz&show_icons=true&locale=en&theme=tokyonight" alt="NePz" /></p>
 
 
