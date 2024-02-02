@@ -1,18 +1,10 @@
-<style>
-  .button {
-    background-color: #ffffff;
-    padding: 10px;
-    border-radius: 5px;
-    display: inline-block;
-  }
-  .button-text {
-    color: white;
-    font-weight: bold;
-  }
-</style>
+
 
 <h1 align="center">Hi there 👋, I'm JP(Jasper)</h1>
 <h3 align="center">Aspiring Fullstack Developer</h3>
+<div style="background-color: #007bff; padding: 10px; border-radius: 5px; display: inline-block;">
+  <span style="color: white; font-weight: bold;">Click Me</span>
+</div>
 
 <p align="center">
   <a href="Your LinkedIn profile link"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
