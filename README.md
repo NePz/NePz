@@ -3,11 +3,6 @@
 
 <h1 align="center">Hi there! 👋 I'm JP (Jasper)</h1>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3" />
-  </a>
-</p>
 
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&background=1E203E&center=true&vCenter=true&random=false&width=435&lines=%24+Aspiring+Full-Stack+Developer_" alt="Typing SVG" />
@@ -62,6 +57,14 @@
 <br>
       
 ## -- LANGUAGE \ TOOLS \ TECHNOLOGIES --
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,sass,jquery,js,react,nodejs,express,mongodb,git,ai,tailwind,linux,postman,java,bootstrap,arduino,figma,firebase,python&perline=3" />
+  </a>
+</p>
+
 
 <!-- TEMPLATE:: <img align="center" alt="" width="26px" src="" style="padding-right:15px;" /> ::-->
 <img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:15px;" />
