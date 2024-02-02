@@ -13,7 +13,7 @@
 <div align="center">
   <div style="max-width: 800px; text-align: left; margin: 0 auto;">
 
-<img align="right" alt="Coding" width="400" src="https://github.com/NePz/NePz/blob/main/assets/Programmer.png">
+<img align="right" alt="Coding" width="350" src="https://github.com/NePz/NePz/blob/main/assets/Programmer.png">
 
 ## -- ABOUT ME -- 
  
