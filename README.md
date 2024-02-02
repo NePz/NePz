@@ -56,7 +56,6 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 
-<br>
 
 ### Other
   > Graphic Design
