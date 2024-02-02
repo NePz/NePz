@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/9d/ea/64/9dea6422afee150cbe2f65b5317285eb.gif" style="width: 100vw; display: block;" alt="MasterHead">
 
 <h1 align="center">Hi there! 👋 I'm JP (Jasper)</h1>
-<h3 align="center">ASPIRING FULL-STACK DEV</h3>
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&background=14152A&random=false&width=435&lines=%24+Aspiring+Full-Stack+Developer_" alt="Typing SVG" />
 
 
 <p align="center">
