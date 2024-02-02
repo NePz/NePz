@@ -4,7 +4,7 @@
 <h1 align="center">Hi there! 👋 I'm JP (Jasper)</h1>
 
 <div align="center">
-    <center><img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&background=1E203E&random=false&width=435&lines=%24+Aspiring+Full-Stack+Developer_" alt="Typing SVG" /></center>
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&background=1E203E&center=true&vCenter=true&random=false&width=435&lines=%24+Aspiring+Full-Stack+Developer_" alt="Typing SVG" />
 </div>
 
 <p align="center">
