@@ -20,7 +20,7 @@
 ## About Me
 <p>
   
-  🔭 I’m currently working on: <b> Internal Tech Recruitment Platform </b><br>
+  🔭 I’m currently working on: <br><b>Internal Tech Recruitment Platform </b><br>
   🌱 I’m currently learning: 
   <br><b> React, Docker, AWS, </b>
   <br> <b>JWT</b><br> 
