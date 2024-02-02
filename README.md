@@ -61,8 +61,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,
-        html,css,js,sass,jquery,react,nodejs,express,mongodb,git,ai,tailwind,linux,postman,java,bootstrap,arduino,figma,firebase,python&perline=3" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,sass,jquery,react,nodejs,express,mongodb,git,ai,tailwind,linux,postman,java,bootstrap,arduino,figma,firebase,python&perline=7" />
   </a>
 </p>
 
