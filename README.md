@@ -61,12 +61,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,sass,jquery,react,nodejs,express,mongodb,git,ai,tailwind,linux,postman,java,bootstrap,arduino,figma,firebase,python&perline=3" />
+    <img src="https://skillicons.dev/icons?i=vscode,
+        html,css,js,sass,jquery,react,nodejs,express,mongodb,git,ai,tailwind,linux,postman,java,bootstrap,arduino,figma,firebase,python&perline=3" />
   </a>
 </p>
 
 
 <!-- TEMPLATE:: <img align="center" alt="" width="26px" src="" style="padding-right:15px;" /> ::-->
+<!--
 <img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:15px;" />
 <img align="center" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:15px;" />
 <img align="center" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:15px;" />
@@ -87,7 +89,7 @@
 <img align="center" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="padding-right:15px;" /> 
 <img align="center" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="padding-right:15px;" /> 
 <img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:15px;" /> 
-
+-->
 <!--## Projects
 <p>
   #### [Project Name 1](Link to Project 1)<br>
