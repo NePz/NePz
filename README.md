@@ -41,7 +41,11 @@
 
 </div>
 </div>
-  
+
+
+<div align="center">
+  <div style="max-width: 800px; text-align: left; margin: 0 auto;">
+      
 ## -- LANGUAGE \ TOOLS \ TECHNOLOGIES --
 
 <!-- TEMPLATE:: <img align="center" alt="" width="26px" src="" style="padding-right:15px;" /> ::-->
@@ -76,7 +80,8 @@
 </p> -->
 
 <!-- Add more sections as needed -->
-
+</div>
+</div>
 <br>
   
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NePz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NePz" /></p>
